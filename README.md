@@ -10,17 +10,18 @@ _**Software engineer** with 7+ years of experience in frontend and backend devel
 
 ## 💻 KEY SKILLS
 
-**Frontend**: Angular | React | JavaScript/ES6, TypeScript
+**Frontend**: | Angular | React | JavaScript/ES6, TypeScript
 
-**Backend**: NodeJS, Express | Java, Spring
+**Backend**: | NodeJS, Express | Java, Spring
   
-**Testing**: Jasmine, Karma | Cypress | JUnit, Mockito | TDD
+**Testing**: | Jasmine, Karma | Cypress | JUnit, Mockito | TDD
 
-**Databases**: MongoDB | MySQL | PostgreSQL
+**Databases**: | MongoDB | MySQL | PostgreSQL
 
-**DevOps**: AWS (EC2, RDS, etc) | Git | Nginx | GitHub Actions
+**DevOps**: | AWS (EC2, RDS, etc) | Git | Nginx | GitHub Actions
 
-**SDLC**: Jira | Trello | Scrum
+**SDLC**: | Jira | Trello | Scrum
+
 <br><br>
 
 ## 💻 WORK HISTORY
@@ -37,20 +38,23 @@ Activities:
   - Create/Update documentation.
   - Perform maintenance upgrades.
   - Perform code reviews and mentor team members.
-  - **_Technologies used:_** Angular, Angular Material, Rxjs, Typescript, Java, Maven, Spring, PostgreSQL, MongoDB, Docker, GitHub Actions, Ansible, Docker, ActiveMQ, Solr…
+  
+**_Technologies used:_** Angular, Angular Material, Rxjs, Typescript, Java, Maven, Spring, PostgreSQL, MongoDB, Docker, GitHub Actions, Ansible, Docker, ActiveMQ, Solr…
 <br><br>
 
 **Full Stack Engineer** @ [Softtek](https://www.softtek.com/) (Client Hewlett Packard Enterprise [HPE](https://www.hpe.com/us/en/home.html)) _(Jun 2019 - Dec 2019) Remote_ <br>
 Activities:
   - I worked as a backend developer with an international team developing features, fixing bugs, and detecting improvement areas within the project. I also worked as a repository maintainer doing code reviews and deploying releases. 
-  - **_Technologies used:_** Angular, Java, Spring, PostgreSQL, Maven, Git, Jenkins.
+
+**_Technologies used:_** Angular, Java, Spring, PostgreSQL, Maven, Git, Jenkins.
 <br><br>
 
 **Frontend Engineer** @ [Agave Lab](https://agavelab.com/) (Client [Gaggle](https://www.gaggle.net/)) _(Jan 2019 - Jun 2019) Remote_ <br>
 Activities:
   - I worked as a contractor for a client in the US. I created a Single Page Application SPA to display information to their clients consuming a REST API.
-  - **_Technologies used:_** Angular, AWS (S3, Cognito), DynamoDB.
-  <br><br>
+
+**_Technologies used:_** Angular, AWS (S3, Cognito), DynamoDB.
+<br><br>
 
 **Full Stack Engineer** @ Freelance _(2017 - 2020)_ <br>
 Activities:
@@ -59,25 +63,29 @@ Activities:
   - Some examples of my work or projects in which I have participated:
     - [Waste Trade](https://wastetrade.io/)
     - [Casa Cuesta](https://casacuesta.com.mx/) 
-  - **_Technologies used:_** Angular, React, Java, Spring, NodeJS, Express, AWS, MySQL
+
+**_Technologies used:_** Angular, React, Java, Spring, NodeJS, Express, AWS, MySQL
 <br><br>
 
 **Java Developer** @ [AARON GROUP](https://www.aarongroup.com/en/complete-flight-retailing-solutions-for-every-business) _(Jan 2017 - Dec 2017) Czech Republic_ <br>
 Activities:
   - I worked on its main product which is a flight booking system on the backend development implementing new features and fixing bugs, etc. along with the consumption and creation of Web Services.
-  - **_Technologies used:_** Java, Hibernate, Spring, Junit, Mockito, Apache Wicket, MySQL, Jenkins.
+
+**_Technologies used:_** Java, Hibernate, Spring, Junit, Mockito, Apache Wicket, MySQL, Jenkins.
 <br><br>
 
 **Senior Java Developer** @  [Alestra](https://www.alestra.mx/) (Client [BBVA](https://www.bbva.mx/)) _(Jan 2016 - Dec 2016) Mexico_ <br>
 Activities:
   - I was working mainly in the backend creating processes depending on the client's requirements, along with the consumption and creation of Web Services.
-  - **_Technologies used:_** Java, JEE, Hibernate, EJB, HTML5, CSS, MySQL.
+
+**_Technologies used:_** Java, JEE, Hibernate, EJB, HTML5, CSS, MySQL.
 <br><br>
 
 **Full Stack Engineer** @  [DIVI](https://www.divi.mx/) _(Jan 2015 - Dec 2015) Mexico_ <br>
 Activities:
   - I worked in the backend designing and developing an API and the database and in the frontend I developed the user interface.
-  - **_Technologies used:_**  Java, JEE, Hibernate, AngularJS, MySQL 
+
+**_Technologies used:_**  Java, JEE, Hibernate, AngularJS, MySQL 
 <br><br>
     
 ## 💻 SIDE PROJECTS
@@ -85,7 +93,8 @@ Activities:
 **Full Stack Engineer/Founder** @  [Donaunalaptop](https://donaunalaptop.org/) _(2020)_ <br>
 Activities:
   - I created a website to help people who need a laptop connect with people who want to donate one without a third party. All classes have recently gone online and unfortunately, many people do not have a computer and will not be able to continue their studies in Mexico.
-  - **_Technologies used:_**  Angular, NodeJS, AWS Serverless, DynamoDB.
+
+**_Technologies used:_**  Angular, NodeJS, AWS Serverless, DynamoDB.
 <br><br> 
 
 ## 💬 LANGUAGES
